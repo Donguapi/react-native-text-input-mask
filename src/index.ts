@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2024 Huawei Device Co., Ltd. All rights reserved
+ * Use of this source code is governed by a MIT license that can be
+ * found in the LICENSE file.
+ */
+
 import HarmonyTextInputMask ,{MaskOptions}from './index.harmony'
 import {mask as maskA, unmask as unmaskA, setMask as setMaskA }  from 'react-native-text-input-mask';
 import { Platform } from 'react-native';
